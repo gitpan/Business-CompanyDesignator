@@ -31,6 +31,9 @@ Besloten vennootschap:
 'Besloten vennootschap met beperkte aansprakelijkheid':
   abbr: B.V.B.A.
   lang: nl
+'Betéti Társasá':
+  abbr: Bt.
+  lang: hu
 Chartered:
   abbr: Chtd.
   lang: en
@@ -43,6 +46,9 @@ Company:
     - '& Co.'
     - and Co.
   lang: en
+Cooperativa de Responsabilidade Limitada:
+  abbr: CRL
+  lang: pt
 Cooperative:
   abbr:
     - Coop.
@@ -57,6 +63,12 @@ Cwmni Cyfyngedig Cyhoeddus:
 Cyfyngedig:
   abbr: Cyf
   lang: cy
+'Egyéni Cég':
+  abbr: e.c.
+  lang: hu
+'Egyéni Vállalkozó':
+  abbr: e.v.
+  lang: hu
 eingetragene Genossenschaft:
   abbr: e.G.
   lang: de
@@ -69,6 +81,9 @@ eingetragenes Einzelunternehmen:
 eingetragene Verein:
   abbr: e.V.
   lang: de
+'einkahlutafélag':
+  abbr: ehf.
+  lang: is
 'Eenpersoons besloten vennootschap met beperkte aansprakelijkheid':
   abbr: E.B.V.B.A.
   lang: nl
@@ -81,6 +96,16 @@ eingetragene Verein:
 'Gesellschaft bürgerlichen Rechts':
   abbr: GbR
   lang: de
+'Государственное унитарное предприятие':
+  abbr:
+    - ГП
+    - GP
+    - ГУП
+    - GUP
+  lang: ru
+'hlutafélag':
+  abbr: hf.
+  lang: is
 Incorporated:
   abbr:
     - Inc.
@@ -90,6 +115,11 @@ Incorporated:
 "Incorporée":
   abbr: Inc.
   lang: fr
+'Индивидуальный предприниматель':
+  abbr:
+    - ИП
+    - IP
+  lang: ru
 'Julkinen osakeyhtiö':
   abbr: Oyj
   lang: fi
@@ -120,6 +150,23 @@ Kommanditgesellschaft auf Aktien:
 Kommanditselskab:
   abbr: 'K/S'
   lang: da
+'Korlátolt Felelősségű Társaság':
+  abbr: Kft.
+  lang: hu
+'Közhasznú Társaság':
+  abbr:
+    - Kht.
+    - Nonprofit Kft.
+  lang: hu
+'Közkereseti Társaság':
+  abbr: Kkt.
+  lang: hu
+'Közös Vállalat':
+  abbr: Kv.
+  lang: hu
+Limitada:
+  abbr: Lda.
+  lang: pt
 Limited:
   abbr:
     - Ltd.
@@ -159,6 +206,14 @@ Naamloze vennootschap:
     - N.V.
     - N.V. Nv
   lang: nl
+'Nyilvánosan Működő Részvénytársaság':
+  abbr: Nyrt.
+  lang: hu
+'Общество с ограниченной ответственностью':
+  abbr:
+    - ООО
+    - OOO
+  lang: ru
 offene Gesellschaft:
   abbr: OG
   lang: de
@@ -168,9 +223,17 @@ offene Handelsgesellschaft:
     - 'GmbH & Co OHG'
     - 'GmbH und Co OHG'
   lang: de
+'opinbert hlutafélag':
+  abbr: ohf.
+  lang: is
 'Osakeyhtiö':
   abbr: Oy
   lang: fi
+'Открытое акционерное общество':
+  abbr:
+    - ОАО
+    - OAO
+  lang: ru
 Partnerschaftsgesellschaft:
   abbr: PartG
   lang: de
@@ -205,12 +268,21 @@ Proprietary Limited:
 Public Limited Company:
   abbr: plc
   lang: en
+'Részvénytársaság':
+  abbr: Rt.
+  lang: hu
+'sameignarfélag':
+  abbr: sf.
+  lang: is
 Sendirian Berhad:
   abbr: Sdn. Bhd.
   lang: ms
 Single Member Private Limited Company:
   abbr: SM Pte. Ltd.
   lang: en
+'sjálfseignarstofnun':
+  abbr: ses.
+  lang: is
 'Sociedad Anónima':
   abbr:
     - S.A.
@@ -248,6 +320,12 @@ Sociedad Limitada:
   lang: es
 'Sociedade anônima':
   abbr: S.A.
+  lang: pt
+'Sociedade Fechada':
+  abbr: S.F.
+  lang: pt
+'Sociedade Gestora de Participações Sociais':
+  abbr: SGPS
   lang: pt
 'Sociedade limitada':
   abbr: Ltda.
@@ -331,3 +409,11 @@ Vereinigung ohne Gewinnerzielungsabsicht:
 Vennootschap onder firma:
   abbr: V.O.F.
   lang: nl
+'Закрытое акционерное общество':
+  abbr:
+    - ЗАО
+    - ZAO
+  lang: ru
+'Zártkörűen Működő Részvénytársaság':
+  abbr: Zrt.
+  lang: hu
